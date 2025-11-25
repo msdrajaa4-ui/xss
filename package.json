@@ -1,0 +1,17 @@
+{
+  "name": "k-linker-xss-challenges",
+  "version": "1.0.0",
+  "description": "XSS Challenge Application for K-Linker Club - Djilali Liabes University",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["xss", "security", "ctf", "challenges"],
+  "author": "K-Linker Club",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2"
+  }
+}
